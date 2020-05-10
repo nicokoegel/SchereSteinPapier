@@ -90,13 +90,18 @@ const ResultBox = (props) => {
     let aiImage = pngPapier;
     let playerImage = pngPapier;
     let text;
+    let animateWinLoss;
+    
 
     if (props.pPick === props.AIpick) {
         text = 'Unentschieden!';
+        animateWinLoss="";
     } else if (props.result) {
         text = 'Spieler hat Gewonnen!';
+        animateWinLoss="heartbeat"
     } else {
         text = 'Spieler hat Verloren!';
+        animateWinLoss="shake-horizontal"
     }
 
     if (props.AIpick === TYPE.SCHERE) {
@@ -112,11 +117,11 @@ const ResultBox = (props) => {
     }
 
     return (
-        <div>
+        <div className={animateWinLoss}>
             <hr />
             <button><img src={playerImage} alt={playerImage} height="100" width="100" /></button>
             <img src={pngVersus} alt="versus" hight="80px" width="80px" />
-            <button className="ai"><img src={aiImage} alt={aiImage} height="100" width="100" /></button>
+            <button className='ai'><img src={aiImage} alt={aiImage} height="100" width="100" /></button>
             <div className="divider"></div>
             <h1>{text}</h1>
             <hr />
