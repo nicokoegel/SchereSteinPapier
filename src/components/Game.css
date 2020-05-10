@@ -1,0 +1,35 @@
+h1{
+    margin-top: 0px;
+    text-align: center;
+}
+button {
+    border-radius: 70%;
+    border: 1px solid #266169;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #0D3A49;
+}
+.round {
+    border-radius: 70%;
+    border: 1px solid #266169;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #0D3A49;
+}
+.ai {
+    border: 1px solid tomato;
+}
+.divider{
+    height: 10px;
+    width:10px;
+    display:inline-block;
+}
+.btnCenter {
+    margin-left: 22.5%;
+}
+p {
+    text-align: center;
+}
+.big {
+    font-size: xx-large;
+}
