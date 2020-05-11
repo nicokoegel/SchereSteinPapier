@@ -65,7 +65,7 @@ export const Game = () => {
                 <button onClick={() => playerPick(TYPE.SCHERE)}>
                     <img src={pngSchere} alt="Schere" />
                 </button>
-                <div className="divider"></div>
+                <div className="divider ast"></div>
                 <button onClick={() => playerPick(TYPE.STEIN)}>
                     <img src={pngStein} alt="Schere" height="100" width="100" />
                 </button>
@@ -82,6 +82,9 @@ export const Game = () => {
                 <p className="big"> <b>{pCount} : {aiCount} </b></p>
                 : null
             }
+            <footer>
+                <p>Icons by <a href="https://icons8.com" target="_blank"  rel="noopener noreferrer">Icons8</a></p>
+            </footer>
         </div>
     )
 }
