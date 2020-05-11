@@ -5,7 +5,7 @@ h1 {
 
 button {
     border-radius: 70%;
-    border: 1px solid #266169;
+    border: 4px solid #266169;
     margin-left: 10px;
     margin-top: 10px;
     background-color: #0D3A49;
@@ -20,7 +20,7 @@ button {
 }
 
 .ai {
-    border: 1px solid tomato;
+    border: 4px solid tomato;
 }
 
 .divider {
