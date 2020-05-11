@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "298ea4884958fef8de41eebd444c87d9",
+    "revision": "3b37865bc3661697f59efef5af41e53a",
     "url": "/SchereSteinPapier/index.html"
   },
   {
-    "revision": "2c9d1c1b00acdc4a01ca",
-    "url": "/SchereSteinPapier/static/css/main.86588a51.chunk.css"
+    "revision": "5df6648842365508385b",
+    "url": "/SchereSteinPapier/static/css/main.f55d64df.chunk.css"
   },
   {
     "revision": "7c62645b8db6ba27d568",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SchereSteinPapier/static/js/2.0b53951d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c9d1c1b00acdc4a01ca",
-    "url": "/SchereSteinPapier/static/js/main.31403b78.chunk.js"
+    "revision": "5df6648842365508385b",
+    "url": "/SchereSteinPapier/static/js/main.aee13804.chunk.js"
   },
   {
     "revision": "c626c9549e9962f7c0d0",
