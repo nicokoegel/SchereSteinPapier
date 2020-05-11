@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SchereSteinPapier/static/css/main.a6d1b3c4.chunk.css",
-    "main.js": "/SchereSteinPapier/static/js/main.07387910.chunk.js",
-    "main.js.map": "/SchereSteinPapier/static/js/main.07387910.chunk.js.map",
+    "main.css": "/SchereSteinPapier/static/css/main.86588a51.chunk.css",
+    "main.js": "/SchereSteinPapier/static/js/main.31403b78.chunk.js",
+    "main.js.map": "/SchereSteinPapier/static/js/main.31403b78.chunk.js.map",
     "runtime-main.js": "/SchereSteinPapier/static/js/runtime-main.3dac443d.js",
     "runtime-main.js.map": "/SchereSteinPapier/static/js/runtime-main.3dac443d.js.map",
     "static/js/2.0b53951d.chunk.js": "/SchereSteinPapier/static/js/2.0b53951d.chunk.js",
     "static/js/2.0b53951d.chunk.js.map": "/SchereSteinPapier/static/js/2.0b53951d.chunk.js.map",
     "index.html": "/SchereSteinPapier/index.html",
-    "precache-manifest.36725071bc29e02015cd4a07a0749703.js": "/SchereSteinPapier/precache-manifest.36725071bc29e02015cd4a07a0749703.js",
+    "precache-manifest.c870aed9b767993b52db9b5e27c96e64.js": "/SchereSteinPapier/precache-manifest.c870aed9b767993b52db9b5e27c96e64.js",
     "service-worker.js": "/SchereSteinPapier/service-worker.js",
-    "static/css/main.a6d1b3c4.chunk.css.map": "/SchereSteinPapier/static/css/main.a6d1b3c4.chunk.css.map",
+    "static/css/main.86588a51.chunk.css.map": "/SchereSteinPapier/static/css/main.86588a51.chunk.css.map",
     "static/js/2.0b53951d.chunk.js.LICENSE.txt": "/SchereSteinPapier/static/js/2.0b53951d.chunk.js.LICENSE.txt",
     "static/media/versus.png": "/SchereSteinPapier/static/media/versus.9ac572eb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3dac443d.js",
     "static/js/2.0b53951d.chunk.js",
-    "static/css/main.a6d1b3c4.chunk.css",
-    "static/js/main.07387910.chunk.js"
+    "static/css/main.86588a51.chunk.css",
+    "static/js/main.31403b78.chunk.js"
   ]
 }
