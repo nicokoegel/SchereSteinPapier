@@ -126,7 +126,7 @@ const ResultBox = (props) => {
             <img src={pngVersus} alt="versus" hight="80px" width="80px" />
             <button className='ai'><img src={aiImage} alt={aiImage} height="100" width="100" /></button>
             <div className="divider"></div>
-            <h1>{text}</h1>
+            <h2>{text}</h2>
             <hr />
         </div>
     )
